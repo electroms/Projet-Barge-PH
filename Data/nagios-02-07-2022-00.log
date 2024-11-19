@@ -1,0 +1,186 @@
+[1644102000] LOG ROTATION: DAILY
+[1644102000] LOG VERSION: 2.0
+[1644102000] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK -  Paquets perdus = 0%, RTA = 0.11 ms
+[1644102000] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - Charge moyenne: 0.21, 0.91, 1.14
+[1644102000] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;UTILISATEURS OK - 3 utilisateurs actuellement connectés sur
+[1644102000] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 420 octets en 0,001 secondes de temps de réponse
+[1644102000] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK -  Paquets perdus = 0%, RTA = 0.09 ms
+[1644102000] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 30509 MB (59% inode=97%):
+[1644102000] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_7.4 (protocol 2.0)
+[1644102000] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 4% libre (130 MB sur un total de 3711 MB)
+[1644102000] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 71 processus avec ETAT = RSZDT
+[1644105572] Auto-save of retention data completed successfully.
+[1644105914] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644105974] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;2;SWAP OK - 1% libre (0 MB sur un total de 3711 MB)
+[1644108374] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644108434] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;2;SWAP OK - 1% libre (1 MB sur un total de 3711 MB)
+[1644109172] Auto-save of retention data completed successfully.
+[1644109634] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644109694] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;2;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644109754] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;3;SWAP OK - 1% libre (0 MB sur un total de 3711 MB)
+[1644110654] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644110714] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;2;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644110774] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;3;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644110834] SERVICE ALERT: localhost;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644110834] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644111902] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;1;CRITICAL - Charge moyenne: 12.21, 6.77, 3.79
+[1644111962] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;2;CRITICAL - Charge moyenne: 20.27, 11.13, 5.54
+[1644112022] SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;3;CRITICAL - Charge moyenne: 49.93, 20.61, 9.11
+[1644112116] wproc: Core Worker 1469: job 864 (pid=5795) timed out. Killing it
+[1644112120] wproc: CHECK job 864 from worker Core Worker 1469 timed out after 60.62s
+[1644112120] wproc:   host=localhost; service=Swap Usage;
+[1644112120] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644112121] Warning: Check of service 'Swap Usage' on host 'localhost' timed out after 60.620s!
+[1644112121] SERVICE ALERT: localhost;Current Load;CRITICAL;HARD;4;CRITICAL - Charge moyenne: 84.10, 39.42, 16.88
+[1644112121] SERVICE NOTIFICATION: nagiosadmin;localhost;Current Load;CRITICAL;notify-service-by-email;CRITICAL - Charge moyenne: 84.10, 39.42, 16.88
+[1644112265] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;1;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644112398] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;2;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644112408] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;CRITIQUE - Le plugin n'as pas répondu dans les 10 secondes
+[1644112446] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 132 processus avec ETAT = RSZDT
+[1644112449] SERVICE ALERT: localhost;PING;OK;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.07 ms
+[1644112604] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;CRITICAL - Le socket n'a pas répondu dans les 10 secondes
+[1644112722] SERVICE ALERT: localhost;HTTP;OK;SOFT;2;HTTP OK: HTTP/1.1 302 Found - 420 octets en 0,453 secondes de temps de réponse
+[1644112782] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;CRITIQUE - Le plugin n'as pas répondu dans les 10 secondes
+[1644112784] Auto-save of retention data completed successfully.
+[1644112794] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;1;CRITICAL - Le socket n'a pas répondu dans les 10 secondes
+[1644112880] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;2;CRITIQUE - Le plugin n'as pas répondu dans les 10 secondes
+[1644112880] SERVICE ALERT: localhost;SSH;OK;SOFT;2;SSH OK - OpenSSH_7.4 (protocol 2.0)
+[1644112918] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;3;CRITIQUE - Le plugin n'as pas répondu dans les 10 secondes
+[1644112953] SERVICE ALERT: localhost;PING;OK;SOFT;4;PING OK -  Paquets perdus = 0%, RTA = 0.07 ms
+[1644113083] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;CRITICAL - Le socket n'a pas répondu dans les 10 secondes
+[1644113135] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;1;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644113153] wproc: Core Worker 1469: job 874 (pid=6754) timed out. Killing it
+[1644113155] wproc: CHECK job 874 from worker Core Worker 1469 timed out after 60.26s
+[1644113156] wproc:   host=localhost; service=Current Load;
+[1644113156] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644113158] Warning: Check of service 'Current Load' on host 'localhost' timed out after 60.256s!
+[1644113166] wproc: Core Worker 1469: job 874 (pid=6754): Dormant child reaped
+[1644113227] wproc: Core Worker 1468: job 874 (pid=6770) timed out. Killing it
+[1644113229] wproc: CHECK job 874 from worker Core Worker 1468 timed out after 30.42s
+[1644113230] wproc:   host=localhost; service=(null);
+[1644113231] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644113233] Warning: Check of host 'localhost' timed out after 30.42 seconds
+[1644113236] HOST ALERT: localhost;DOWN;SOFT;1;(Host check timed out after 30.42 seconds)
+[1644113246] wproc: Core Worker 1470: job 875 (pid=6771) timed out. Killing it
+[1644113249] wproc: CHECK job 875 from worker Core Worker 1470 timed out after 60.62s
+[1644113250] wproc:   host=localhost; service=HTTP;
+[1644113252] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644113254] Warning: Check of service 'HTTP' on host 'localhost' timed out after 60.619s!
+[1644113259] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;2;(Service check timed out after 60.62 seconds)
+[1644113301] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 163 processus avec ETAT = RSZDT
+[1644113303] HOST ALERT: localhost;UP;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.12 ms
+[1644113314] SERVICE ALERT: localhost;HTTP;OK;SOFT;3;HTTP OK: HTTP/1.1 302 Found - 420 octets en 0,292 secondes de temps de réponse
+[1644113336] SERVICE ALERT: localhost;Swap Usage;OK;HARD;4;SWAP OK - 3% libre (85 MB sur un total de 3711 MB)
+[1644113336] SERVICE NOTIFICATION: nagiosadmin;localhost;Swap Usage;OK;notify-service-by-email;SWAP OK - 3% libre (85 MB sur un total de 3711 MB)
+[1644113636] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644113697] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;2;SWAP OK - 1% libre (0 MB sur un total de 3711 MB)
+[1644114509] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;1;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644114600] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;2;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644114645] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644114654] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 127 processus avec ETAT = RSZDT
+[1644114657] wproc: Core Worker 1468: job 887 (pid=10872) timed out. Killing it
+[1644114657] wproc: CHECK job 887 from worker Core Worker 1468 timed out after 30.04s
+[1644114657] wproc:   host=localhost; service=(null);
+[1644114657] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644114657] Warning: Check of host 'localhost' timed out after 30.04 seconds
+[1644114657] HOST ALERT: localhost;DOWN;SOFT;1;(Host check timed out after 30.04 seconds)
+[1644114657] wproc: Core Worker 1468: job 887 (pid=10872): Dormant child reaped
+[1644114800] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;2;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644114805] wproc: Core Worker 1471: job 888 (pid=10988) timed out. Killing it
+[1644114807] wproc: CHECK job 888 from worker Core Worker 1471 timed out after 30.82s
+[1644114808] wproc:   host=localhost; service=(null);
+[1644114809] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644114811] Warning: Check of host 'localhost' timed out after 30.82 seconds
+[1644114812] HOST ALERT: localhost;DOWN;SOFT;2;(Host check timed out after 30.82 seconds)
+[1644114849] HOST ALERT: localhost;UP;SOFT;3;PING OK -  Paquets perdus = 0%, RTA = 0.06 ms
+[1644114853] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;3;SWAP OK - 5% libre (161 MB sur un total de 3711 MB)
+[1644115220] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;1;CRITICAL - Le socket n'a pas répondu dans les 10 secondes
+[1644115228] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;CRITIQUE - Le plugin n'as pas répondu dans les 10 secondes
+[1644115235] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644115241] wproc: Core Worker 1469: job 891 (pid=13206) timed out. Killing it
+[1644115243] wproc: CHECK job 891 from worker Core Worker 1469 timed out after 60.31s
+[1644115243] wproc:   host=localhost; service=HTTP;
+[1644115244] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115246] Warning: Check of service 'HTTP' on host 'localhost' timed out after 60.306s!
+[1644115249] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;(Service check timed out after 60.31 seconds)
+[1644115253] wproc: Core Worker 1469: job 891 (pid=13206): Dormant child reaped
+[1644115342] wproc: Core Worker 1468: job 892 (pid=13244) timed out. Killing it
+[1644115343] wproc: CHECK job 892 from worker Core Worker 1468 timed out after 30.43s
+[1644115343] wproc:   host=localhost; service=(null);
+[1644115343] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115343] Warning: Check of host 'localhost' timed out after 30.43 seconds
+[1644115343] HOST ALERT: localhost;DOWN;SOFT;1;(Host check timed out after 30.43 seconds)
+[1644115343] wproc: Core Worker 1468: job 892 (pid=13244): Dormant child reaped
+[1644115343] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;2;SWAP OK - 1% libre (8 MB sur un total de 3711 MB)
+[1644115343] SERVICE ALERT: localhost;SSH;OK;SOFT;2;SSH OK - OpenSSH_7.4 (protocol 2.0)
+[1644115343] SERVICE ALERT: localhost;HTTP;OK;SOFT;2;HTTP OK: HTTP/1.1 302 Found - 420 octets en 0,314 secondes de temps de réponse
+[1644115347] SERVICE ALERT: localhost;PING;OK;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.06 ms
+[1644115347] HOST ALERT: localhost;UP;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.09 ms
+[1644115773] wproc: Core Worker 1469: job 895 (pid=14223) timed out. Killing it
+[1644115778] wproc: CHECK job 895 from worker Core Worker 1469 timed out after 60.22s
+[1644115780] wproc:   host=localhost; service=Current Load;
+[1644115782] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115785] Warning: Check of service 'Current Load' on host 'localhost' timed out after 60.218s!
+[1644115800] SERVICE NOTIFICATION: nagiosadmin;localhost;Current Load;CRITICAL;notify-service-by-email;(Service check timed out after 60.22 seconds)
+[1644115808] wproc: Core Worker 1469: job 895 (pid=14223): Dormant child reaped
+[1644115905] SERVICE ALERT: localhost;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 0% libre (0 MB sur un total de 3711 MB)
+[1644115911] wproc: Core Worker 1471: job 895 (pid=14225) timed out. Killing it
+[1644115916] wproc: CHECK job 895 from worker Core Worker 1471 timed out after 60.49s
+[1644115917] wproc:   host=localhost; service=PING;
+[1644115919] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115922] Warning: Check of service 'PING' on host 'localhost' timed out after 60.489s!
+[1644115926] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;(Service check timed out after 60.49 seconds)
+[1644115933] wproc: Core Worker 1471: job 895 (pid=14225): Dormant child reaped
+[1644115934] wproc: Core Worker 1471: job 896 (pid=14241) timed out. Killing it
+[1644115936] wproc: CHECK job 896 from worker Core Worker 1471 timed out after 61.18s
+[1644115938] wproc:   host=localhost; service=HTTP;
+[1644115939] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115942] Warning: Check of service 'HTTP' on host 'localhost' timed out after 61.183s!
+[1644115945] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;(Service check timed out after 61.18 seconds)
+[1644115950] wproc: Core Worker 1471: job 896 (pid=14241): Dormant child reaped
+[1644115956] SERVICE ALERT: localhost;Total Processes;CRITICAL;SOFT;1;CRITICAL - Le plugin n'as pas répondu dans les 10 secondes
+[1644115959] wproc: Core Worker 1470: job 897 (pid=14247) timed out. Killing it
+[1644115959] wproc: NOTIFY job 897 from worker Core Worker 1470 timed out after 30.19s
+[1644115959] wproc:   host=localhost; service=Current Load; contact=nagiosadmin
+[1644115959] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115959] Warning: Notifying contact 'nagiosadmin' of service 'Current Load' on host 'localhost' by command '/usr/bin/printf "%b" "***** Nagios *****\n\nNotification Type: PROBLEM\n\nService: Current Load\nHost: localhost\nAddress: 127.0.0.1\nState: CRITICAL\n\nDate/Time: Sun Feb 6 03:49:55 CET 2022\n\nAdditional Info:\n\n(Service check timed out after 60.22 seconds)\n" | /usr/bin/mail -s "** PROBLEM Service Alert: localhost/Current Load is CRITICAL **" mailinpro@gmail.com' timed out after 0.00 seconds
+[1644115959] wproc: Core Worker 1470: job 897 (pid=14247): Dormant child reaped
+[1644115959] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;1;CRITICAL - Le socket n'a pas répondu dans les 10 secondes
+[1644115959] wproc: Core Worker 1468: job 896 (pid=14242) timed out. Killing it
+[1644115959] wproc: CHECK job 896 from worker Core Worker 1468 timed out after 30.22s
+[1644115959] wproc:   host=localhost; service=(null);
+[1644115959] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1644115959] Warning: Check of host 'localhost' timed out after 30.22 seconds
+[1644115959] HOST ALERT: localhost;DOWN;SOFT;1;(Host check timed out after 30.22 seconds)
+[1644115959] wproc: Core Worker 1468: job 896 (pid=14242): Dormant child reaped
+[1644115959] SERVICE ALERT: localhost;Swap Usage;OK;SOFT;2;SWAP OK - 1% libre (3 MB sur un total de 3711 MB)
+[1644115960] SERVICE ALERT: localhost;SSH;OK;SOFT;2;SSH OK - OpenSSH_7.4 (protocol 2.0)
+[1644115963] HOST ALERT: localhost;UP;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.05 ms
+[1644115966] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 131 processus avec ETAT = RSZDT
+[1644115966] SERVICE ALERT: localhost;HTTP;OK;SOFT;2;HTTP OK: HTTP/1.1 302 Found - 420 octets en 0,002 secondes de temps de réponse
+[1644115989] SERVICE ALERT: localhost;PING;OK;SOFT;2;PING OK -  Paquets perdus = 0%, RTA = 0.08 ms
+[1644116372] Auto-save of retention data completed successfully.
+[1644119609] SERVICE ALERT: localhost;Current Load;WARNING;HARD;4;WARNING - Charge moyenne: 0.31, 1.30, 3.51
+[1644119609] SERVICE NOTIFICATION: nagiosadmin;localhost;Current Load;WARNING;notify-service-by-email;WARNING - Charge moyenne: 0.31, 1.30, 3.51
+[1644119909] SERVICE ALERT: localhost;Current Load;OK;HARD;4;OK - Charge moyenne: 0.42, 0.71, 2.64
+[1644119909] SERVICE NOTIFICATION: nagiosadmin;localhost;Current Load;OK;notify-service-by-email;OK - Charge moyenne: 0.42, 0.71, 2.64
+[1644119972] Auto-save of retention data completed successfully.
+[1644123572] Auto-save of retention data completed successfully.
+[1644127172] Auto-save of retention data completed successfully.
+[1644130772] Auto-save of retention data completed successfully.
+[1644134372] Auto-save of retention data completed successfully.
+[1644137972] Auto-save of retention data completed successfully.
+[1644141572] Auto-save of retention data completed successfully.
+[1644145172] Auto-save of retention data completed successfully.
+[1644148772] Auto-save of retention data completed successfully.
+[1644152372] Auto-save of retention data completed successfully.
+[1644155972] Auto-save of retention data completed successfully.
+[1644159572] Auto-save of retention data completed successfully.
+[1644163172] Auto-save of retention data completed successfully.
+[1644166772] Auto-save of retention data completed successfully.
+[1644170372] Auto-save of retention data completed successfully.
+[1644173972] Auto-save of retention data completed successfully.
+[1644177572] Auto-save of retention data completed successfully.
+[1644181172] Auto-save of retention data completed successfully.
+[1644184772] Auto-save of retention data completed successfully.
+[1644188372] Auto-save of retention data completed successfully.

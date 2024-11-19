@@ -1,0 +1,34 @@
+﻿[1644274800] LOG ROTATION; DAILY;;;;;;
+[1644274800] LOG VERSION; 2.0;;;;;;
+[1644274800] CURRENT SERVICE STATE; localhost;Current Load;OK;HARD;1;OK - Charge moyenne; 0.53, 1.48, 1.46
+[1644274800] CURRENT SERVICE STATE; localhost;Current Users;OK;HARD;1;UTILISATEURS OK - 3 utilisateurs actuellement connectÃ©s sur;
+[1644274800] CURRENT SERVICE STATE; localhost;HTTP;OK;HARD;1;HTTP OK; HTTP/1.1 302 Found - 420 octets en 0,001 secondes de temps de rÃ©ponse
+[1644274800] CURRENT SERVICE STATE; localhost;PING;OK;HARD;1;PING OK -  Paquets perdus = 0%, RTA = 0.09 ms;
+[1644274800] CURRENT SERVICE STATE; localhost;Root Partition;OK;HARD;1;DISK OK - free space; / 30641 MB (59% inode=97%)
+[1644274800] CURRENT SERVICE STATE; localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_7.4 (protocol 2.0);
+[1644274800] CURRENT SERVICE STATE; localhost;Swap Usage;OK;HARD;1;SWAP OK - 22% libre (787 MB sur un total de 3711 MB);
+[1644274800] CURRENT SERVICE STATE; localhost;Total Processes;OK;HARD;1;PROCS OK; 69 processus avec ETAT = RSZDT
+[1644277308] Auto-save of retention data completed successfully.;;;;;;;
+[1644280908] Auto-save of retention data completed successfully.;;;;;;;
+[1644284508] Auto-save of retention data completed successfully.;;;;;;;
+[1644288108] Auto-save of retention data completed successfully.;;;;;;;
+[1644291708] Auto-save of retention data completed successfully.;;;;;;;
+[1644295308] Auto-save of retention data completed successfully.;;;;;;;
+[1644298908] Auto-save of retention data completed successfully.;;;;;;;
+[1644302508] Auto-save of retention data completed successfully.;;;;;;;
+[1644306108] Auto-save of retention data completed successfully.;;;;;;;
+[1644309708] Auto-save of retention data completed successfully.;;;;;;;
+[1644313308] Auto-save of retention data completed successfully.;;;;;;;
+[1644316908] Auto-save of retention data completed successfully.;;;;;;;
+[1644320508] Auto-save of retention data completed successfully.;;;;;;;
+[1644324108] Auto-save of retention data completed successfully.;;;;;;;
+[1644327708] Auto-save of retention data completed successfully.;;;;;;;
+[1644331308] Auto-save of retention data completed successfully.;;;;;;;
+[1644334908] Auto-save of retention data completed successfully.;;;;;;;
+[1644338508] Auto-save of retention data completed successfully.;;;;;;;
+[1644342108] Auto-save of retention data completed successfully.;;;;;;;
+[1644345708] Auto-save of retention data completed successfully.;;;;;;;
+[1644349308] Auto-save of retention data completed successfully.;;;;;;;
+[1644352908] Auto-save of retention data completed successfully.;;;;;;;
+[1644356508] Auto-save of retention data completed successfully.;;;;;;;
+[1644360108] Auto-save of retention data completed successfully.;;;;;;;
